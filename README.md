@@ -1,5 +1,5 @@
 # student-attendance-system
-Project contains 3 modules i.e. Student, teacher, attendance
+Project contains 3 modules i.e. Student, teacher, admin
 
 # username and password for different users
 
